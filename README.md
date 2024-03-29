@@ -25,4 +25,4 @@ There are several goals that RNR seeks to accomplish, them being;
 
 RNR is licensed under the [GNU General Public License v3.0](https://github.com/lrre-foss/rnr/blob/trunk/LICENSE). A copy of it has been included with RNR.
 
-This repository hosts no proprietary Roblox assets. Neither Legacy Roblox Reverse Engineers nor RNR are not associated with Roblox Corporation in any way, shape, or form.
+This repository hosts no proprietary Roblox assets. Neither Legacy Roblox Reverse Engineers or RNR are associated with Roblox Corporation in any way, shape, or form.
