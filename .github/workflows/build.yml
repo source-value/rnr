@@ -40,6 +40,11 @@ jobs:
             libwayland-dev
             libibus-1.0-dev
             libraw-dev
+
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+          cache: "poetry"
       
       - name: Install Qt
         uses: jurplel/install-qt-action@v3
